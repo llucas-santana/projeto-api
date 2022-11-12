@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "8dqb2remvcmpR+QTSlTfrRRtR83y0FCgtRErfQuOeeM=",
+  "Source": "WebApplicationAPI",
+  "BasePath": "_content/WebApplicationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplicationAPI\\wwwroot",
+      "Source": "WebApplicationAPI",
+      "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\WebApplicationAPI\\wwwroot\\",
+      "BasePath": "_content/WebApplicationAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
