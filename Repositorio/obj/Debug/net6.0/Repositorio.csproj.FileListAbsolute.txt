@@ -32,3 +32,20 @@ C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Repositorio\obj\Debu
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.pdb
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\bin\Debug\net6.0\Repositorio.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\bin\Debug\net6.0\Dados.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\bin\Debug\net6.0\Entidade.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\bin\Debug\net6.0\Dados.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\bin\Debug\net6.0\Entidade.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll

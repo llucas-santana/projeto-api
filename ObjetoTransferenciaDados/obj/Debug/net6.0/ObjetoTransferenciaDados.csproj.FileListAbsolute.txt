@@ -28,3 +28,18 @@ C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\ObjetoTransferenciaD
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\refint\ObjetoTransferenciaDados.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.pdb
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ref\ObjetoTransferenciaDados.dll
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\bin\Debug\net6.0\ObjetoTransferenciaDados.deps.json
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\bin\Debug\net6.0\ObjetoTransferenciaDados.dll
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\bin\Debug\net6.0\ObjetoTransferenciaDados.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\bin\Debug\net6.0\Entidade.dll
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\bin\Debug\net6.0\Entidade.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.AssemblyInfo.cs
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.csproj.CopyComplete
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.dll
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\refint\ObjetoTransferenciaDados.dll
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ObjetoTransferenciaDados.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\ObjetoTransferenciaDados\obj\Debug\net6.0\ref\ObjetoTransferenciaDados.dll

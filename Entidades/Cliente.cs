@@ -7,7 +7,7 @@ namespace Dados
     {
         public Cliente()
         {
-            Venda = new HashSet<Venda>();
+            Vendas = new HashSet<Venda>();
         }
 
         public int Id { get; set; }
@@ -17,6 +17,6 @@ namespace Dados
         public bool? Ativo { get; set; }
 
         public virtual Pessoa IdPessoaNavigation { get; set; } = null!;
-        public virtual ICollection<Venda> Venda { get; set; }
+        public virtual ICollection<Venda> Vendas { get; set; }
     }
 }

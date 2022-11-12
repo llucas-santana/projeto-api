@@ -6529,11 +6529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Dados\\Dados.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Dados\\Dados.csproj",
       "projectName": "Dados",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Dados\\Dados.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Dados\\Dados.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Dados\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Dados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6554,8 +6554,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Entidades\\Entidade.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Entidades\\Entidade.csproj"
+            "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Entidades\\Entidade.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Entidades\\Entidade.csproj"
             }
           }
         }

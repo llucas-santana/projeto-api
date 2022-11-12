@@ -6777,11 +6777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.csproj",
       "projectName": "WebApplicationAPI",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\WebApplicationAPI\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\WebApplicationAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6802,17 +6802,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Dados\\Dados.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Dados\\Dados.csproj"
+            "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Dados\\Dados.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Dados\\Dados.csproj"
             },
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Entidades\\Entidade.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Entidades\\Entidade.csproj"
+            "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Entidades\\Entidade.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Entidades\\Entidade.csproj"
             },
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\ObjetoTransferenciaDados\\ObjetoTransferenciaDados.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\ObjetoTransferenciaDados\\ObjetoTransferenciaDados.csproj"
+            "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\ObjetoTransferenciaDados\\ObjetoTransferenciaDados.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\ObjetoTransferenciaDados\\ObjetoTransferenciaDados.csproj"
             },
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Repositorio\\Repositorio.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Repositorio\\Repositorio.csproj"
+            "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Repositorio\\Repositorio.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Repositorio\\Repositorio.csproj"
             }
           }
         }

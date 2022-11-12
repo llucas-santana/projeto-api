@@ -56,9 +56,7 @@ namespace Repositorio
 
         public Funcionario buscarPeloLoginESenha(string login, string senha)
         {
-            return null;
-
-            //return this._contexto.Funcionarios.Where<Funcionario>(c => c.Login.Equals(login) & c.Senha.Equals(senha)).FirstOrDefault();
+            return this._contexto.Funcionarios.Where<Funcionario>(c => c.Login.Equals(login) & c.Senha.Equals(senha)).FirstOrDefault();
         }
     }
 }

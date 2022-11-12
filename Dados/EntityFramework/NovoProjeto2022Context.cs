@@ -23,7 +23,6 @@ namespace Dados.EntityFramework
         public virtual DbSet<Ingresso> Ingressos { get; set; } = null!;
         public virtual DbSet<Pessoa> Pessoas { get; set; } = null!;
         public virtual DbSet<Sala> Salas { get; set; } = null!;
-        public virtual DbSet<Usuario> Usuarios { get; set; } = null!;
         public virtual DbSet<Venda> Vendas { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -87,6 +86,10 @@ namespace Dados.EntityFramework
             {
                 entity.ToTable("Funcionario");
 
+                entity.Property(e => e.Login).HasMaxLength(21);
+
+                entity.Property(e => e.Senha).HasMaxLength(21);
+
                 entity.HasOne(d => d.IdPessoaNavigation)
                     .WithMany(p => p.Funcionarios)
                     .HasForeignKey(d => d.IdPessoa)
@@ -139,27 +142,6 @@ namespace Dados.EntityFramework
                 entity.Property(e => e.Nome).HasMaxLength(60);
             });
 
-            modelBuilder.Entity<Usuario>(entity =>
-            {
-                entity.ToTable("Usuario");
-
-                entity.Property(e => e.Id).ValueGeneratedNever();
-
-                entity.Property(e => e.Login).HasMaxLength(25);
-
-                entity.Property(e => e.Papel)
-                    .HasMaxLength(25)
-                    .IsFixedLength();
-
-                entity.Property(e => e.Senha).HasMaxLength(25);
-
-                entity.HasOne(d => d.IdFuncionarioNavigation)
-                    .WithMany(p => p.Usuarios)
-                    .HasForeignKey(d => d.IdFuncionario)
-                    .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK_Usuario_Funcionario");
-            });
-
             modelBuilder.Entity<Venda>(entity =>
             {
                 entity.Property(e => e.DataVenda).HasColumnType("datetime");
@@ -167,13 +149,13 @@ namespace Dados.EntityFramework
                 entity.Property(e => e.ValorPago).HasColumnType("decimal(8, 2)");
 
                 entity.HasOne(d => d.IdClienteNavigation)
-                    .WithMany(p => p.Venda)
+                    .WithMany(p => p.Vendas)
                     .HasForeignKey(d => d.IdCliente)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_Venda_Cliente");
 
                 entity.HasOne(d => d.IdIngressoNavigation)
-                    .WithMany(p => p.Venda)
+                    .WithMany(p => p.Vendas)
                     .HasForeignKey(d => d.IdIngresso)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_Venda_Ingresso");

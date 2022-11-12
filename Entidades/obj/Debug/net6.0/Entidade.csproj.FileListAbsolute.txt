@@ -22,3 +22,15 @@ C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Entidades\obj\Debug\
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Entidades\obj\Debug\net6.0\refint\Entidade.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.pdb
 C:\Users\lucas\OneDrive\Área de Trabalho\WebApplicationAPI\Entidades\obj\Debug\net6.0\ref\Entidade.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\bin\Debug\net6.0\Entidade.deps.json
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\bin\Debug\net6.0\Entidade.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\bin\Debug\net6.0\Entidade.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.AssemblyInfo.cs
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\refint\Entidade.dll
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\Entidade.pdb
+C:\Users\lucas\Documents\WebApplicationAPI\Entidades\obj\Debug\net6.0\ref\Entidade.dll

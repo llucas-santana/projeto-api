@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8dqb2remvcmpR+QTSlTfrRRtR83y0FCgtRErfQuOeeM=",
+  "Hash": "FdYRJ+UVsK9/uj9oDqUsAHFPiVTk4pPsVBsOQEoT6zs=",
   "Source": "WebApplicationAPI",
   "BasePath": "_content/WebApplicationAPI",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebApplicationAPI\\wwwroot",
       "Source": "WebApplicationAPI",
-      "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\WebApplicationAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\WebApplicationAPI\\wwwroot\\",
       "BasePath": "_content/WebApplicationAPI",
       "Pattern": "**"
     }

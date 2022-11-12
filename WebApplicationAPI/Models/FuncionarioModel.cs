@@ -95,7 +95,10 @@ namespace WebApplicationAPI.Models
                         obj.Resultado = new FuncionarioDTO
                         {
                             Id = objEntidade.Id,
-                            IdPessoa = objEntidade.IdPessoa
+                            IdPessoa = objEntidade.IdPessoa,
+                            Login = objEntidade.Login,
+                            Senha = objEntidade.Senha,
+                            Ativo = objEntidade.Ativo
                         };
 
                         obj.Resultado.IdPessoaNavigation = new PessoaDTO

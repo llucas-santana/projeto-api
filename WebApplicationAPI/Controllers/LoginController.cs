@@ -49,7 +49,27 @@ namespace WebApplicationAPI.Controllers
                 else
                 {
                     funcionarioRepositorio = new FuncionarioRepositorio(context);
-                    return null;
+
+                    var funcionario = funcionarioRepositorio.buscarPeloLoginESenha(model.Login, model.Senha);
+
+                    if (funcionario == null)
+                    {
+                        return Unauthorized(new
+                        {
+                            status = false,
+                            mensagem = "Login ou Senha inválidos"
+                        });
+                    }
+                    else
+                    {
+                        return Ok(new
+                        {
+                            status = true,
+                            mensagem = "Login efetuado com sucesso",
+                            token = Seguranca.gerarToken(model)
+                        });
+
+                    }
                 }
             }
         }

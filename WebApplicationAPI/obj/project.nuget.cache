@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cb/XyaK7Ye6NCfXEm9iYYzd/N5n9N2k/9CWSFGW1aB0/dKRMw8aOqzlyVOVb51+o6JvQnJAsoI/HyU9SO/m2rw==",
+  "dgSpecHash": "7SRt46FCyTl7/UTquNanB+inyFdrIH0MAC6FOucFTYvDGnQK3t/ObPwsoAptob+lvI8pTpePAHJbEj+u8GchZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",

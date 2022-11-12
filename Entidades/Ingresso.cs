@@ -7,7 +7,7 @@ namespace Dados
     {
         public Ingresso()
         {
-            Venda = new HashSet<Venda>();
+            Vendas = new HashSet<Venda>();
         }
 
         public int Id { get; set; }
@@ -19,6 +19,6 @@ namespace Dados
 
         public virtual Filme IdFilmeNavigation { get; set; } = null!;
         public virtual Sala IdSalaNavigation { get; set; } = null!;
-        public virtual ICollection<Venda> Venda { get; set; }
+        public virtual ICollection<Venda> Vendas { get; set; }
     }
 }

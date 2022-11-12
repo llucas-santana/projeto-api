@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJ7GaBdGPJlr6ID6z+dhgorfh1/ClPWpAGOEZGeOAM3G4MFNtUkmujAsPSKM4Ga+t4yGuoJyp6z4VLqVB0IDkw==",
+  "dgSpecHash": "H9tsz9iR5yOg08tc/86LzQBUy8nDiCh+HxEMzXhvb54x24l+/BCEi3b1wL8zkN4LoOgYFInoOsLGJfo1Q/qQDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documentos\\WebApplicationAPI\\Entidades\\Entidade.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Documents\\WebApplicationAPI\\Entidades\\Entidade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

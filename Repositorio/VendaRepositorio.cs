@@ -1,6 +1,5 @@
 ﻿using Dados;
 using Dados.EntityFramework;
-
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
