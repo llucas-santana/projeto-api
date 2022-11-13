@@ -15,7 +15,7 @@ namespace ObjetoTransferenciaDados
         public decimal Valor { get; set; }
         public DateTime DataInicio { get; set; }
 
-        //public Filme IdFilmeNavigation { get; set; } = null!;
-        //public Sala IdSalaNavigation { get; set; } = null!;
+        public FilmeDTO IdFilmeNavigation { get; set; } = null!;
+        public SalaDTO IdSalaNavigation { get; set; } = null!;
     }
 }

@@ -17,7 +17,7 @@ namespace ObjetoTransferenciaDados
         public string Login { get; set; } = null!;
         public string Senha { get; set; } = null!;
         public string Papel { get; set; }
-        public string Hash { get; set; }
+        public string? Hash { get; set; }
 
         public static string obterHashCliente()
         {

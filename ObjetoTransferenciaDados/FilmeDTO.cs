@@ -16,6 +16,6 @@ namespace ObjetoTransferenciaDados
         public string Imagem { get; set; } = null!;
         public int DuracaoMinutos { get; set; }
 
-        //public Empresa IdEmpresaNavigation { get; set; } = null!;
+        public EmpresaDTO IdEmpresaNavigation { get; set; } = null!;
     }
 }

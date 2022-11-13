@@ -14,7 +14,7 @@ namespace ObjetoTransferenciaDados
         public int IdCliente { get; set; }
         public decimal ValorPago { get; set; }
 
-        //public Cliente IdClienteNavigation { get; set; } = null!;
-        //public Ingresso IdIngressoNavigation { get; set; } = null!;
+        public ClienteDTO IdClienteNavigation { get; set; } = null!;
+        public IngressoDTO IdIngressoNavigation { get; set; } = null!;
     }
 }
